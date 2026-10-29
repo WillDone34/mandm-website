@@ -27,7 +27,7 @@ The product catalogue intentionally contains placeholders, with no fabricated pr
 
 ## Content and assets
 
-The company logo and eight five-star Google review excerpts were supplied by the user. Review dates and profile metadata are omitted. Contact emails are ned@mandmfixings.com and john@mandmfixings.com.
+The company logo and eight five-star Google review excerpts were supplied by the user. Review dates and profile metadata are omitted. Contact emails are john@mandmfixings.com.
 
 Manufacturer logos were downloaded from M&M Fixings' existing website, https://www.mandmfixings.com/: fischer, DEWALT, Makita, Bosch, Everbuild, Rawl Fixings, Ancon and SPIT. Company history and technical services were checked against that website on 29 October 2026.
 
